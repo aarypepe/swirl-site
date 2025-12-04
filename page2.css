@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: fantasy;
+    color:#6b3e26;
+    background-color: 	#f1c5c5;
+}
+p {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+img {
+    width: 500px;
+}

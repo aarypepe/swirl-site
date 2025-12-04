@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: fantasy;
+    color:#452829 ;
+    background-color: #E8D1C5;
+}
+p {
+    text-align: center;
+    color:#957C62 ;
+    padding-left:300px ;
+    padding-right:300px ;
+
+}
+footer {
+  background-color: #c8c8c8;
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
